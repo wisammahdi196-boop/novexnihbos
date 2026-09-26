@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://papa.queen-official.com:2290",
+  "updatedAt": "2026-06-27T12:00:00.000Z",
+  "note": "Ganti baseUrl di sini kalau VPS pindah. APK ambil otomatis dari GitHub raw."
+}
