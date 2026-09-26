@@ -1,5 +1,4 @@
 {
-  "baseUrl": "http://tirzzpanelgg.pteroqdactyl.my.id:4290",
-  "updatedAt": "2026-06-27T12:00:00.000Z",
-  "note": "Ganti baseUrl di sini kalau VPS pindah. APK ambil otomatis dari GitHub raw."
+  "base_url": "http://papa.queen-official.com:2290",
+  "ws_url": "wss://ws-papa.queen-official.com:2290"
 }
